@@ -29,6 +29,7 @@
 1. EP2-6右上角章节提示汉化尚未实装，0.01补丁游玩仍为英文。
 2. 目前仍留有部分图片未汉化，只沿用了汉化组已有素材，以及自己做了一张主菜单标题汉化而已，不太想整。
 3. 未完全测试，暂不确定是否有漏翻剧情对话、选项等。
+4. 部分机翻未重翻完善，但我应该是不会整了。
 <br>
 如有发现除我提及以外我缺漏的，请留言告知我。
 
@@ -41,8 +42,6 @@
 
 2. 切勿直接载入其它来源的旧档，否则易导致汉化不全、报错等问题，要载也只能是以本汉化进行游玩的存档，或者原版游玩的英语存档(但会导致汉化不全)，建议以新游戏开始游玩，享受较全面的汉化体验。
 
-3. 
-
 ***
 
 # :o:补丁下载
@@ -50,7 +49,7 @@
 <br>补丁版本：0.01
 <br>适配Steam版本：1.0.2
 <br>适配Depots Update：2020.01.03 (3 January 2020 – 12:47:57 UTC)
-<br>检查Depots Update：[[Game]](https://steamdb.info/depot/1045521/manifests/)
+<br>检查Depots Update：[[Game]Acting Lessons](https://steamdb.info/depot/1045521/manifests/)
 <br>解压密码：vetoy
 <br>补丁下载：百度网盘(提取码)　　　GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)
 <br>补丁安装：[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.Acting_Lessons#o必读bangbang如何使用补丁)
