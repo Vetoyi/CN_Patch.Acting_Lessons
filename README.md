@@ -59,6 +59,28 @@
 
 ***
 
+# :o:(必读:bangbang:)如何使用补丁
+**具体步骤：**
+
+**<details><summary>1. 将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary>**
+>下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/01.jpg)
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/02.jpg)</details>
+
+**<details><summary>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出该游戏的本地文件夹；</summary>**
+>下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
+> <br>![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/03.jpg)
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/04.jpg)</details>
+
+**<details><summary>3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹，在跳出提示框后选择替换所有文件；</summary>**
+>下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
+> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/05.jpg)
+</details>
+
+**4. 进入游戏，如上述步骤操作均正确，则进游戏已汉化成功。**
+
+***
+
 # :o:补丁快速Q&A
 **<details><summary>:red_circle:Q：为什么我解压完后进游戏却没汉化或只有部分汉化甚至报错、打不开游戏？</summary>**
 > :green_circle:A：确认是否完成以下所有操作，如果全部都做到却还不行，再留言反馈：
