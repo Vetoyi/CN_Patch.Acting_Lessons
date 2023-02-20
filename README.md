@@ -46,7 +46,7 @@
 
 # :o:补丁下载
 **更新日期：2023.02.20
-<br>补丁版本：0.01
+<br>补丁版本：0.02
 <br>适配Steam版本：1.0.2
 <br>适配Depots Update：2020.01.03 (3 January 2020 – 12:47:57 UTC)
 <br>检查Depots Update：[[Game]Acting Lessons](https://steamdb.info/depot/1045521/manifests/)
@@ -117,7 +117,7 @@
 ***
 
 # :o:补丁更新记录
-**<details><summary>:beginner:2023.02.20_AL.CN_Ver0.01.GameVer1.0.2</summary>**
+**<details><summary>:beginner:2023.02.20_AL.CN_Ver0.02.GameVer1.0.2</summary>**
 - 首次发布补丁。
 - 修改完善所有章节报告翻译
 - 修改完善所有章节提示翻译(仅实装EP1)
